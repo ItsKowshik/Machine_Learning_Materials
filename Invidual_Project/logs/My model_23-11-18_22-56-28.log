@@ -1,0 +1,15 @@
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 50
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700319389618
+>>> index: 0
+>>> log_name: My model_23-11-18_22-56-28.log
+1/50 - 2.00%
+[train] loss: 1.7902, acc: 46.18
+[test] loss: 0.5386, acc: 86.11

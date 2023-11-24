@@ -1,0 +1,134 @@
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700329419205
+>>> index: 0
+>>> log_name: My model_23-11-19_01-43-39.log
+1/10 - 10.00%
+[train] loss: 2.2468, acc: 33.47
+[test] loss: 1.0961, acc: 68.19
+2/10 - 20.00%
+[train] loss: 0.7142, acc: 76.94
+[test] loss: 0.4533, acc: 88.47
+3/10 - 30.00%
+[train] loss: 0.1401, acc: 96.39
+[test] loss: 0.2639, acc: 92.22
+4/10 - 40.00%
+[train] loss: 0.0679, acc: 97.64
+[test] loss: 0.2268, acc: 93.33
+5/10 - 50.00%
+[train] loss: 0.0379, acc: 98.75
+[test] loss: 0.0707, acc: 97.92
+6/10 - 60.00%
+[train] loss: 0.0167, acc: 99.72
+[test] loss: 0.1465, acc: 96.67
+7/10 - 70.00%
+[train] loss: 0.0399, acc: 99.03
+[test] loss: 0.1461, acc: 97.22
+8/10 - 80.00%
+[train] loss: 0.0156, acc: 99.72
+[test] loss: 0.1184, acc: 97.50
+9/10 - 90.00%
+[train] loss: 0.0085, acc: 99.86
+[test] loss: 0.0844, acc: 98.33
+10/10 - 100.00%
+[train] loss: 0.0028, acc: 99.86
+[test] loss: 0.1158, acc: 97.50
+best loss: 0.0844, best acc: 98.33, best index: 8
+log saved: My model_23-11-19_01-43-39.log
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700380390008
+>>> index: 0
+>>> log_name: My model_23-11-19_15-53-09.log
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700380998292
+>>> index: 0
+>>> log_name: My model_23-11-19_16-03-17.log
+1/10 - 10.00%
+[train] loss: 2.1434, acc: 36.11
+[test] loss: 0.7109, acc: 77.08
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: True
+>>> workers: 0
+>>> timestamp: 1700381899378
+>>> index: 0
+>>> log_name: My model_23-11-19_16-18-18.log
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700382145879
+>>> index: 0
+>>> log_name: My model_23-11-19_16-22-25.log
+1/10 - 10.00%
+[train] loss: 2.3010, acc: 28.61
+[test] loss: 1.0142, acc: 70.00
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700382489475
+>>> index: 0
+>>> log_name: My model_23-11-19_16-28-08.log
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700382749376
+>>> index: 0
+>>> log_name: My model_23-11-19_16-32-28.log
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700382822360
+>>> index: 0
+>>> log_name: My model_23-11-19_16-33-42.log

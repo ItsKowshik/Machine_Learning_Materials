@@ -1,0 +1,44 @@
+> training arguments:
+>>> train_batch_size: 32
+>>> test_batch_size: 32
+>>> num_epoch: 10
+>>> lr: 0.0001
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1700383871818
+>>> index: 0
+>>> log_name: My model_23-11-19_16-51-10.log
+1/10 - 10.00%
+[train] loss: 2.0673, acc: 40.69
+[test] loss: 1.1410, acc: 72.36
+2/10 - 20.00%
+[train] loss: 0.5679, acc: 80.97
+[test] loss: 0.2897, acc: 90.00
+3/10 - 30.00%
+[train] loss: 0.1489, acc: 96.11
+[test] loss: 0.1693, acc: 95.42
+4/10 - 40.00%
+[train] loss: 0.0790, acc: 98.06
+[test] loss: 0.0592, acc: 98.19
+5/10 - 50.00%
+[train] loss: 0.0537, acc: 98.47
+[test] loss: 0.3501, acc: 93.61
+6/10 - 60.00%
+[train] loss: 0.0526, acc: 99.03
+[test] loss: 0.0292, acc: 99.31
+7/10 - 70.00%
+[train] loss: 0.0026, acc: 100.00
+[test] loss: 0.0245, acc: 99.31
+8/10 - 80.00%
+[train] loss: 0.0005, acc: 100.00
+[test] loss: 0.0182, acc: 99.58
+9/10 - 90.00%
+[train] loss: 0.0003, acc: 100.00
+[test] loss: 0.0181, acc: 99.44
+10/10 - 100.00%
+[train] loss: 0.0002, acc: 100.00
+[test] loss: 0.0182, acc: 99.44
+best loss: 0.0182, best acc: 99.58, best index: 7
+log saved: My model_23-11-19_16-51-10.log
